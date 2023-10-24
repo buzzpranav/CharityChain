@@ -2,7 +2,7 @@
 
 CharityChain is a cutting-edge platform designed to empower users to make a positive impact on the world by donating to the charity programs of their choice with the ease and security of cryptocurrency transactions. With CharityChain, you can seamlessly support causes you're passionate about, all while harnessing the potential of digital currencies for philanthropic endeavors.
 
-* [Video demo](https://youtu.be/)
+* [Video demo](https://youtu.be/8Wli2eASUVo)
 
 | Home View | Donations View |
 | --- | --- |
